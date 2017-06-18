@@ -1,0 +1,5 @@
+/Users/stephen/Desktop/C#/Learning/Variables/Variables/bin/Debug/Variables.exe
+/Users/stephen/Desktop/C#/Learning/Variables/Variables/bin/Debug/Variables.pdb
+/Users/stephen/Desktop/C#/Learning/Variables/Variables/obj/x86/Debug/Variables.csproj.CoreCompileInputs.cache
+/Users/stephen/Desktop/C#/Learning/Variables/Variables/obj/x86/Debug/Variables.exe
+/Users/stephen/Desktop/C#/Learning/Variables/Variables/obj/x86/Debug/Variables.pdb
