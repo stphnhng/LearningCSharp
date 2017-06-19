@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{B60A4380-7E71-4CCE-8C3F-2D043E55A41E}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Variables/Program.cs">
     <Files>
-      <File FileName="Variables/Program.cs" Line="8" Column="10" />
+      <File FileName="Variables/Program.cs" Line="40" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
