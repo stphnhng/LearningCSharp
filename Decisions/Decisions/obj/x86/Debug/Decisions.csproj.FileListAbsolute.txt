@@ -1,0 +1,5 @@
+/Users/stephen/Desktop/C#/Learning/Decisions/Decisions/bin/Debug/Decisions.exe
+/Users/stephen/Desktop/C#/Learning/Decisions/Decisions/bin/Debug/Decisions.pdb
+/Users/stephen/Desktop/C#/Learning/Decisions/Decisions/obj/x86/Debug/Decisions.csproj.CoreCompileInputs.cache
+/Users/stephen/Desktop/C#/Learning/Decisions/Decisions/obj/x86/Debug/Decisions.exe
+/Users/stephen/Desktop/C#/Learning/Decisions/Decisions/obj/x86/Debug/Decisions.pdb
