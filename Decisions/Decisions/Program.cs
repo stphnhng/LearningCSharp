@@ -14,6 +14,14 @@ namespace Decisions
                 string message = "You won a new car!";
                 Console.WriteLine(message);
             }
+            else if(userValue == "2"){
+                string message = "You won a new boat!";
+                Console.WriteLine(message);
+            }
+            else if(userValue == "3"){
+                string message = "You won a new cat!";
+                Console.WriteLine(message);
+            }
             Console.ReadLine();
         }
     }
