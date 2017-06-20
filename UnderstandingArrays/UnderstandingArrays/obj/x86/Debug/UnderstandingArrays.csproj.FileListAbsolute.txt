@@ -1,0 +1,5 @@
+/Users/stephen/Desktop/C#/Learning/UnderstandingArrays/UnderstandingArrays/bin/Debug/UnderstandingArrays.exe
+/Users/stephen/Desktop/C#/Learning/UnderstandingArrays/UnderstandingArrays/bin/Debug/UnderstandingArrays.pdb
+/Users/stephen/Desktop/C#/Learning/UnderstandingArrays/UnderstandingArrays/obj/x86/Debug/UnderstandingArrays.csproj.CoreCompileInputs.cache
+/Users/stephen/Desktop/C#/Learning/UnderstandingArrays/UnderstandingArrays/obj/x86/Debug/UnderstandingArrays.exe
+/Users/stephen/Desktop/C#/Learning/UnderstandingArrays/UnderstandingArrays/obj/x86/Debug/UnderstandingArrays.pdb
