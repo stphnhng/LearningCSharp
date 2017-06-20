@@ -1,0 +1,5 @@
+/Users/stephen/Desktop/C#/Learning/ForIteration/ForIteration/obj/x86/Debug/ForIteration.csproj.CoreCompileInputs.cache
+/Users/stephen/Desktop/C#/Learning/ForIteration/ForIteration/bin/Debug/ForIteration.exe
+/Users/stephen/Desktop/C#/Learning/ForIteration/ForIteration/bin/Debug/ForIteration.pdb
+/Users/stephen/Desktop/C#/Learning/ForIteration/ForIteration/obj/x86/Debug/ForIteration.exe
+/Users/stephen/Desktop/C#/Learning/ForIteration/ForIteration/obj/x86/Debug/ForIteration.pdb
