@@ -1,0 +1,5 @@
+/Users/stephen/Desktop/C#/Learning/HelperMethods/HelperMethods/bin/Debug/HelperMethods.exe
+/Users/stephen/Desktop/C#/Learning/HelperMethods/HelperMethods/bin/Debug/HelperMethods.pdb
+/Users/stephen/Desktop/C#/Learning/HelperMethods/HelperMethods/obj/x86/Debug/HelperMethods.csproj.CoreCompileInputs.cache
+/Users/stephen/Desktop/C#/Learning/HelperMethods/HelperMethods/obj/x86/Debug/HelperMethods.exe
+/Users/stephen/Desktop/C#/Learning/HelperMethods/HelperMethods/obj/x86/Debug/HelperMethods.pdb
