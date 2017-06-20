@@ -1,0 +1,5 @@
+/Users/stephen/Desktop/C#/Learning/SimpleMethods/SimpleMethods/obj/x86/Debug/SimpleMethods.csproj.CoreCompileInputs.cache
+/Users/stephen/Desktop/C#/Learning/SimpleMethods/SimpleMethods/bin/Debug/SimpleMethods.exe
+/Users/stephen/Desktop/C#/Learning/SimpleMethods/SimpleMethods/bin/Debug/SimpleMethods.pdb
+/Users/stephen/Desktop/C#/Learning/SimpleMethods/SimpleMethods/obj/x86/Debug/SimpleMethods.exe
+/Users/stephen/Desktop/C#/Learning/SimpleMethods/SimpleMethods/obj/x86/Debug/SimpleMethods.pdb
