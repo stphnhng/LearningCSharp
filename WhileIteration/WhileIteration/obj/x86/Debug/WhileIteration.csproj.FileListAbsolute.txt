@@ -1,0 +1,5 @@
+/Users/stephen/Desktop/C#/Learning/WhileIteration/WhileIteration/bin/Debug/WhileIteration.exe
+/Users/stephen/Desktop/C#/Learning/WhileIteration/WhileIteration/bin/Debug/WhileIteration.pdb
+/Users/stephen/Desktop/C#/Learning/WhileIteration/WhileIteration/obj/x86/Debug/WhileIteration.csproj.CoreCompileInputs.cache
+/Users/stephen/Desktop/C#/Learning/WhileIteration/WhileIteration/obj/x86/Debug/WhileIteration.exe
+/Users/stephen/Desktop/C#/Learning/WhileIteration/WhileIteration/obj/x86/Debug/WhileIteration.pdb
