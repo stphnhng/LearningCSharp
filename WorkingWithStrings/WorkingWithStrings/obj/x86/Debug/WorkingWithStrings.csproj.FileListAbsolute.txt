@@ -1,0 +1,5 @@
+/Users/stephen/Desktop/C#/Learning/WorkingWithStrings/WorkingWithStrings/bin/Debug/WorkingWithStrings.exe
+/Users/stephen/Desktop/C#/Learning/WorkingWithStrings/WorkingWithStrings/bin/Debug/WorkingWithStrings.pdb
+/Users/stephen/Desktop/C#/Learning/WorkingWithStrings/WorkingWithStrings/obj/x86/Debug/WorkingWithStrings.csproj.CoreCompileInputs.cache
+/Users/stephen/Desktop/C#/Learning/WorkingWithStrings/WorkingWithStrings/obj/x86/Debug/WorkingWithStrings.exe
+/Users/stephen/Desktop/C#/Learning/WorkingWithStrings/WorkingWithStrings/obj/x86/Debug/WorkingWithStrings.pdb
