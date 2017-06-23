@@ -1,0 +1,5 @@
+/Users/stephen/Desktop/C#/Learning/DatesAndTimes/DatesAndTimes/bin/Debug/DatesAndTimes.exe
+/Users/stephen/Desktop/C#/Learning/DatesAndTimes/DatesAndTimes/bin/Debug/DatesAndTimes.pdb
+/Users/stephen/Desktop/C#/Learning/DatesAndTimes/DatesAndTimes/obj/x86/Debug/DatesAndTimes.csproj.CoreCompileInputs.cache
+/Users/stephen/Desktop/C#/Learning/DatesAndTimes/DatesAndTimes/obj/x86/Debug/DatesAndTimes.exe
+/Users/stephen/Desktop/C#/Learning/DatesAndTimes/DatesAndTimes/obj/x86/Debug/DatesAndTimes.pdb
