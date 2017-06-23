@@ -1,0 +1,5 @@
+/Users/stephen/Desktop/C#/Learning/SimpleClasses/SimpleClasses/bin/Debug/SimpleClasses.exe
+/Users/stephen/Desktop/C#/Learning/SimpleClasses/SimpleClasses/bin/Debug/SimpleClasses.pdb
+/Users/stephen/Desktop/C#/Learning/SimpleClasses/SimpleClasses/obj/x86/Debug/SimpleClasses.csproj.CoreCompileInputs.cache
+/Users/stephen/Desktop/C#/Learning/SimpleClasses/SimpleClasses/obj/x86/Debug/SimpleClasses.exe
+/Users/stephen/Desktop/C#/Learning/SimpleClasses/SimpleClasses/obj/x86/Debug/SimpleClasses.pdb
