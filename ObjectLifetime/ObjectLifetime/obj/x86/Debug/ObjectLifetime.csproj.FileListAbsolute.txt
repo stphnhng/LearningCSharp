@@ -1,0 +1,5 @@
+/Users/stephen/Desktop/C#/Learning/ObjectLifetime/ObjectLifetime/bin/Debug/ObjectLifetime.exe
+/Users/stephen/Desktop/C#/Learning/ObjectLifetime/ObjectLifetime/bin/Debug/ObjectLifetime.pdb
+/Users/stephen/Desktop/C#/Learning/ObjectLifetime/ObjectLifetime/obj/x86/Debug/ObjectLifetime.csproj.CoreCompileInputs.cache
+/Users/stephen/Desktop/C#/Learning/ObjectLifetime/ObjectLifetime/obj/x86/Debug/ObjectLifetime.exe
+/Users/stephen/Desktop/C#/Learning/ObjectLifetime/ObjectLifetime/obj/x86/Debug/ObjectLifetime.pdb

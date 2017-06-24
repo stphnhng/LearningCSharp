@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{1C982DBC-89E3-4216-9398-035560BD2052}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ObjectLifetime/Program.cs">
+    <Files>
+      <File FileName="ObjectLifetime/Program.cs" Line="17" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
