@@ -1,0 +1,5 @@
+/Users/stephen/Desktop/C#/Learning/UnderstandingScope/UnderstandingScope/bin/Debug/UnderstandingScope.exe
+/Users/stephen/Desktop/C#/Learning/UnderstandingScope/UnderstandingScope/bin/Debug/UnderstandingScope.pdb
+/Users/stephen/Desktop/C#/Learning/UnderstandingScope/UnderstandingScope/obj/x86/Debug/UnderstandingScope.csproj.CoreCompileInputs.cache
+/Users/stephen/Desktop/C#/Learning/UnderstandingScope/UnderstandingScope/obj/x86/Debug/UnderstandingScope.exe
+/Users/stephen/Desktop/C#/Learning/UnderstandingScope/UnderstandingScope/obj/x86/Debug/UnderstandingScope.pdb
