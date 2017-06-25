@@ -1,0 +1,5 @@
+/Users/stephen/Desktop/C#/Learning/AssembliesAndNamespaces/AssembliesAndNamespaces/bin/Debug/AssembliesAndNamespaces.exe
+/Users/stephen/Desktop/C#/Learning/AssembliesAndNamespaces/AssembliesAndNamespaces/bin/Debug/AssembliesAndNamespaces.pdb
+/Users/stephen/Desktop/C#/Learning/AssembliesAndNamespaces/AssembliesAndNamespaces/obj/x86/Debug/AssembliesAndNamespaces.csproj.CoreCompileInputs.cache
+/Users/stephen/Desktop/C#/Learning/AssembliesAndNamespaces/AssembliesAndNamespaces/obj/x86/Debug/AssembliesAndNamespaces.exe
+/Users/stephen/Desktop/C#/Learning/AssembliesAndNamespaces/AssembliesAndNamespaces/obj/x86/Debug/AssembliesAndNamespaces.pdb
