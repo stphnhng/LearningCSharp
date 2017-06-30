@@ -1,0 +1,5 @@
+/Users/stephen/Desktop/C#/Learning/WorkingWithCollections/WorkingWithCollections/bin/Debug/WorkingWithCollections.exe
+/Users/stephen/Desktop/C#/Learning/WorkingWithCollections/WorkingWithCollections/bin/Debug/WorkingWithCollections.pdb
+/Users/stephen/Desktop/C#/Learning/WorkingWithCollections/WorkingWithCollections/obj/x86/Debug/WorkingWithCollections.csproj.CoreCompileInputs.cache
+/Users/stephen/Desktop/C#/Learning/WorkingWithCollections/WorkingWithCollections/obj/x86/Debug/WorkingWithCollections.exe
+/Users/stephen/Desktop/C#/Learning/WorkingWithCollections/WorkingWithCollections/obj/x86/Debug/WorkingWithCollections.pdb
