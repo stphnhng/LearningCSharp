@@ -1,11 +1,10 @@
 ﻿<Properties StartupConfiguration="{ED48DDC4-F3E7-441D-AF5F-5693B571A3FF}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ScrapeLibrary/Scrape.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../UnderstandingLinq/UnderstandingLinq/Program.cs">
     <Files>
-      <File FileName="ScrapeLibrary/Scrape.cs" Line="10" Column="48" />
-      <File FileName="ScrapeClient/Program.cs" Line="11" Column="32" />
+      <File FileName="../UnderstandingLinq/UnderstandingLinq/Program.cs" Line="11" Column="26" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
