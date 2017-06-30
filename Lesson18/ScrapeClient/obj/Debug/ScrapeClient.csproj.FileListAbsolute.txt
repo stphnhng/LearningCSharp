@@ -1,0 +1,8 @@
+/Users/stephen/Desktop/C#/Learning/Lesson18/ScrapeClient/bin/Debug/ScrapeClient.exe
+/Users/stephen/Desktop/C#/Learning/Lesson18/ScrapeClient/bin/Debug/ScrapeClient.pdb
+/Users/stephen/Desktop/C#/Learning/Lesson18/ScrapeClient/bin/Debug/ScrapeLibrary.dll
+/Users/stephen/Desktop/C#/Learning/Lesson18/ScrapeClient/bin/Debug/ScrapeLibrary.pdb
+/Users/stephen/Desktop/C#/Learning/Lesson18/ScrapeClient/obj/Debug/ScrapeClient.csprojResolveAssemblyReference.cache
+/Users/stephen/Desktop/C#/Learning/Lesson18/ScrapeClient/obj/Debug/ScrapeClient.csproj.CoreCompileInputs.cache
+/Users/stephen/Desktop/C#/Learning/Lesson18/ScrapeClient/obj/Debug/ScrapeClient.exe
+/Users/stephen/Desktop/C#/Learning/Lesson18/ScrapeClient/obj/Debug/ScrapeClient.pdb

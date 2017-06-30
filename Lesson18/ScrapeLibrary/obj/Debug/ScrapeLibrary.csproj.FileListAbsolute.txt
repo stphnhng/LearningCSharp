@@ -1,0 +1,5 @@
+/Users/stephen/Desktop/C#/Learning/Lesson18/ScrapeLibrary/obj/Debug/ScrapeLibrary.csproj.CoreCompileInputs.cache
+/Users/stephen/Desktop/C#/Learning/Lesson18/ScrapeLibrary/bin/Debug/ScrapeLibrary.dll
+/Users/stephen/Desktop/C#/Learning/Lesson18/ScrapeLibrary/bin/Debug/ScrapeLibrary.pdb
+/Users/stephen/Desktop/C#/Learning/Lesson18/ScrapeLibrary/obj/Debug/ScrapeLibrary.dll
+/Users/stephen/Desktop/C#/Learning/Lesson18/ScrapeLibrary/obj/Debug/ScrapeLibrary.pdb
