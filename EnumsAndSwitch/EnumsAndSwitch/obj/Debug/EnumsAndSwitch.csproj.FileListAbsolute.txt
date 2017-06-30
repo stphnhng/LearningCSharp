@@ -1,0 +1,6 @@
+/Users/stephen/Desktop/C#/Learning/EnumsAndSwitch/EnumsAndSwitch/bin/Debug/EnumsAndSwitch.exe.config
+/Users/stephen/Desktop/C#/Learning/EnumsAndSwitch/EnumsAndSwitch/bin/Debug/EnumsAndSwitch.exe
+/Users/stephen/Desktop/C#/Learning/EnumsAndSwitch/EnumsAndSwitch/bin/Debug/EnumsAndSwitch.pdb
+/Users/stephen/Desktop/C#/Learning/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/EnumsAndSwitch.csproj.CoreCompileInputs.cache
+/Users/stephen/Desktop/C#/Learning/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/EnumsAndSwitch.exe
+/Users/stephen/Desktop/C#/Learning/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/EnumsAndSwitch.pdb

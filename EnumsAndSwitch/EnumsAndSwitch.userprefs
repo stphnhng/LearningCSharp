@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{35E6FE2A-11BB-4908-AA16-365B968D7466}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EnumsAndSwitch/Program.cs">
+    <Files>
+      <File FileName="EnumsAndSwitch/Program.cs" Line="50" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EnumsAndSwitch PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
