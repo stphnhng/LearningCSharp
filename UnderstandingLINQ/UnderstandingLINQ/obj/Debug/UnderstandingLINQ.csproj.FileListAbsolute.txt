@@ -1,0 +1,6 @@
+/Users/stephen/Desktop/C#/Learning/UnderstandingLINQ/UnderstandingLINQ/bin/Debug/UnderstandingLINQ.exe.config
+/Users/stephen/Desktop/C#/Learning/UnderstandingLINQ/UnderstandingLINQ/bin/Debug/UnderstandingLINQ.exe
+/Users/stephen/Desktop/C#/Learning/UnderstandingLINQ/UnderstandingLINQ/bin/Debug/UnderstandingLINQ.pdb
+/Users/stephen/Desktop/C#/Learning/UnderstandingLINQ/UnderstandingLINQ/obj/Debug/UnderstandingLINQ.csproj.CoreCompileInputs.cache
+/Users/stephen/Desktop/C#/Learning/UnderstandingLINQ/UnderstandingLINQ/obj/Debug/UnderstandingLINQ.exe
+/Users/stephen/Desktop/C#/Learning/UnderstandingLINQ/UnderstandingLINQ/obj/Debug/UnderstandingLINQ.pdb
