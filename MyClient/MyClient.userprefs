@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{4E4763F8-F8E4-497B-A90A-216451B57B74}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Lesson18/ScrapeClient/Program.cs">
+    <Files>
+      <File FileName="../Lesson18/ScrapeLibrary/Scrape.cs" Line="26" Column="25" />
+      <File FileName="../Lesson18/ScrapeClient/Program.cs" Line="12" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MyClient PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

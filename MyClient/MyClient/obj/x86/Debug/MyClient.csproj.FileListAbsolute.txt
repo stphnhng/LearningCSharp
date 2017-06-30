@@ -1,0 +1,6 @@
+/Users/stephen/Desktop/C#/Learning/MyClient/MyClient/bin/Debug/MyClient.exe
+/Users/stephen/Desktop/C#/Learning/MyClient/MyClient/bin/Debug/MyClient.pdb
+/Users/stephen/Desktop/C#/Learning/MyClient/MyClient/bin/Debug/MyCodeLibrary.dll
+/Users/stephen/Desktop/C#/Learning/MyClient/MyClient/obj/x86/Debug/MyClient.csproj.CoreCompileInputs.cache
+/Users/stephen/Desktop/C#/Learning/MyClient/MyClient/obj/x86/Debug/MyClient.exe
+/Users/stephen/Desktop/C#/Learning/MyClient/MyClient/obj/x86/Debug/MyClient.pdb

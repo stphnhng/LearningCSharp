@@ -1,0 +1,5 @@
+/Users/stephen/Desktop/C#/Learning/MyCodeLibrary/MyCodeLibrary/bin/Debug/MyCodeLibrary.dll
+/Users/stephen/Desktop/C#/Learning/MyCodeLibrary/MyCodeLibrary/bin/Debug/MyCodeLibrary.pdb
+/Users/stephen/Desktop/C#/Learning/MyCodeLibrary/MyCodeLibrary/obj/Debug/MyCodeLibrary.csproj.CoreCompileInputs.cache
+/Users/stephen/Desktop/C#/Learning/MyCodeLibrary/MyCodeLibrary/obj/Debug/MyCodeLibrary.dll
+/Users/stephen/Desktop/C#/Learning/MyCodeLibrary/MyCodeLibrary/obj/Debug/MyCodeLibrary.pdb

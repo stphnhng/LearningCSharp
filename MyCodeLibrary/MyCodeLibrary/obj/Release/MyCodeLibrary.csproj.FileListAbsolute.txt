@@ -1,0 +1,3 @@
+/Users/stephen/Desktop/C#/Learning/MyCodeLibrary/MyCodeLibrary/bin/Release/MyCodeLibrary.dll
+/Users/stephen/Desktop/C#/Learning/MyCodeLibrary/MyCodeLibrary/obj/Release/MyCodeLibrary.csproj.CoreCompileInputs.cache
+/Users/stephen/Desktop/C#/Learning/MyCodeLibrary/MyCodeLibrary/obj/Release/MyCodeLibrary.dll
