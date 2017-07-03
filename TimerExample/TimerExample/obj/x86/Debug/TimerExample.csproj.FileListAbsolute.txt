@@ -1,0 +1,5 @@
+/Users/stephen/Desktop/C#/Learning/TimerExample/TimerExample/obj/x86/Debug/TimerExample.csproj.CoreCompileInputs.cache
+/Users/stephen/Desktop/C#/Learning/TimerExample/TimerExample/bin/Debug/TimerExample.exe
+/Users/stephen/Desktop/C#/Learning/TimerExample/TimerExample/bin/Debug/TimerExample.pdb
+/Users/stephen/Desktop/C#/Learning/TimerExample/TimerExample/obj/x86/Debug/TimerExample.exe
+/Users/stephen/Desktop/C#/Learning/TimerExample/TimerExample/obj/x86/Debug/TimerExample.pdb
