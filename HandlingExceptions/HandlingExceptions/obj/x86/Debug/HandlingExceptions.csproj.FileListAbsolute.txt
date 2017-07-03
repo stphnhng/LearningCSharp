@@ -1,0 +1,5 @@
+/Users/stephen/Desktop/C#/Learning/HandlingExceptions/HandlingExceptions/bin/Debug/HandlingExceptions.exe
+/Users/stephen/Desktop/C#/Learning/HandlingExceptions/HandlingExceptions/bin/Debug/HandlingExceptions.pdb
+/Users/stephen/Desktop/C#/Learning/HandlingExceptions/HandlingExceptions/obj/x86/Debug/HandlingExceptions.csproj.CoreCompileInputs.cache
+/Users/stephen/Desktop/C#/Learning/HandlingExceptions/HandlingExceptions/obj/x86/Debug/HandlingExceptions.exe
+/Users/stephen/Desktop/C#/Learning/HandlingExceptions/HandlingExceptions/obj/x86/Debug/HandlingExceptions.pdb
